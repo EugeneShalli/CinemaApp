@@ -1,5 +1,4 @@
 # CinemaApp
-.NET course WebApp
 
 Web application for recording sessions, viewers, and cinema movies
 
